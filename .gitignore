@@ -1,1 +1,3 @@
 /nosetests.xml
+/venv
+/__pycache__
